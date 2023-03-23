@@ -13,3 +13,4 @@ tools/src/hwthic.h
 # Vim backup files
 *~
 
+.vscode
